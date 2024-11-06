@@ -11,4 +11,4 @@
 3) Click on New Application and go to your new application
 4) Click on the Bot tab and click on reset token
 5) Copy that API key and save it to the .env file where "discordAPIKey" is
-6) Run py "path/to/musicbot.py" in a terminal (Powershell or Command Prompt)
+6) Run py "path/to/musicbot.py" in a terminal (Powershell or Command Prompt if on Windows)
